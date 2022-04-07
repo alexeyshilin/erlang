@@ -25,7 +25,7 @@
 * (https://github.com/ferd/recon)[ferd/recon] - Collection of functions and scripts to debug Erlang in production.
 * (https://github.com/zhongwencool/observer_cli)[zhongwencool/observer_cli] - Visualize Erlang/Elixir Nodes On The Command Line
 * (https://github.com/erlang-lager/lager)[erlang-lager/lager] - A logging framework for Erlang/OTP
-* (https://github.com/sky-big/RabbitMQ)[sky-big/RabbitMQ] - RabbitMQç³»ç»Ÿ3.5.3ç‰ˆæœ¬ä¸­æ–‡å®Œå…¨æ³¨é‡Š(å�Œæ—¶å®�ç�°äº†RabbitMQç³»ç»Ÿå’Œæ�’ä»¶æº�ä»£ç �ç¼–è¯‘ï¼Œæ ¹æ�®é…�ç½®æ–‡ä»¶åˆ›å»ºRabbitMQé›†ç¾¤ï¼Œåˆ›å»ºè¿�æ�¥RabbitMQç³»ç»Ÿçš„å®¢æˆ·ç«¯èŠ‚ç‚¹ç­‰ç›¸å…³åŠŸèƒ½ï¼Œæ–¹ä¾¿æº�ä»£ç �çš„é˜…è¯»)
+* (https://github.com/sky-big/RabbitMQ)[sky-big/RabbitMQ] - RabbitMQ system version 3.5.3 is fully annotated in Chinese (at the same time, it realizes RabbitMQ system and plug-in source code compilation, creates a RabbitMQ cluster according to the configuration file, creates a client node connected to the RabbitMQ system and other related functions, which is convenient for reading the source code)
 * (https://github.com/aeternity/aeternity)[aeternity/aeternity] - Ã¦ternity: solving scalability problems by making sense of state-channels
 * (https://github.com/uwiger/gproc)[uwiger/gproc] - Extended process registry for Erlang
 * (https://github.com/hamler-lang/hamler)[hamler-lang/hamler] - Haskell-style functional programming language running on Erlang VM.
