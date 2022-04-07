@@ -1,0 +1,11 @@
+*.log
+*.tmp
+*.temp
+*.beam
+*~
+.git/
+!.keep
+*config.*
+!*config.*example.*
+*.sublime-workspace
+*.sublime-project
