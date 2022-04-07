@@ -3,7 +3,7 @@
 
 ## A curated list of awesome Erlang frameworks, libraries and software.
 
-* (https://github.com/erlang/otp)[erlang/otp] - Erlang/OTP
+* [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 * (https://github.com/emqx/emqx)[emqx/emqx] - An Open-Source, Cloud-Native, Distributed MQTT Message Broker for IoT.
 * (https://github.com/ninenines/cowboy)[ninenines/cowboy] - Small, fast, modern HTTP server for Erlang/OTP.
 * (https://github.com/apache/couchdb)[apache/couchdb] - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
