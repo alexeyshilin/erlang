@@ -1,7 +1,7 @@
 
-#awesome-erlang
+# awesome-erlang
 
-##A curated list of awesome Erlang frameworks, libraries and software.
+## A curated list of awesome Erlang frameworks, libraries and software.
 
 * (https://github.com/erlang/otp)[erlang/otp] - Erlang/OTP
 * (https://github.com/emqx/emqx)[emqx/emqx] - An Open-Source, Cloud-Native, Distributed MQTT Message Broker for IoT.
