@@ -978,3 +978,5 @@
 * [groupoid/pts](https://github.com/groupoid/pts) - Pure Type System for Erlang
 * [klarna-incubator/kflow](https://github.com/klarna-incubator/kflow) - KFlow is an Erlang dataflow DSL built with Kafka in mind.
 * [unix1/nuk](https://github.com/unix1/nuk.git) - Generic turn based game server in Erlang/OTP
+* [jordillonch/eggs](https://github.com/jordillonch/eggs) - Erlang Generic Game Server
+* [jordillonch/eggs_unity3d](https://github.com/jordillonch/eggs_unity3d) - Erlang Generic Game Server + Unity3D 
