@@ -977,3 +977,4 @@
 * [litaocheng/gen-erl-app](https://github.com/litaocheng/gen-erl-app) - the script to generate an erlang app skeleton
 * [groupoid/pts](https://github.com/groupoid/pts) - Pure Type System for Erlang
 * [klarna-incubator/kflow](https://github.com/klarna-incubator/kflow) - KFlow is an Erlang dataflow DSL built with Kafka in mind.
+* [unix1/nuk](https://github.com/unix1/nuk.git) - Generic turn based game server in Erlang/OTP
