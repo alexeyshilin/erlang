@@ -976,3 +976,4 @@
 * [matehat/cqerl](https://github.com/matehat/cqerl) - Native Erlang CQL client for Cassandra
 * [litaocheng/gen-erl-app](https://github.com/litaocheng/gen-erl-app) - the script to generate an erlang app skeleton
 * [groupoid/pts](https://github.com/groupoid/pts) - Pure Type System for Erlang
+* [klarna-incubator/kflow](https://github.com/klarna-incubator/kflow) - KFlow is an Erlang dataflow DSL built with Kafka in mind.
