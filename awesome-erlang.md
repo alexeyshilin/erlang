@@ -980,3 +980,4 @@
 * [unix1/nuk](https://github.com/unix1/nuk.git) - Generic turn based game server in Erlang/OTP
 * [jordillonch/eggs](https://github.com/jordillonch/eggs) - Erlang Generic Game Server
 * [jordillonch/eggs_unity3d](https://github.com/jordillonch/eggs_unity3d) - Erlang Generic Game Server + Unity3D 
+* [jeena/GGS](https://github.com/jeena/GGS) -  Generic Game Server
