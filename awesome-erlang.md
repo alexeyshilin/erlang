@@ -981,3 +981,4 @@
 * [jordillonch/eggs](https://github.com/jordillonch/eggs) - Erlang Generic Game Server
 * [jordillonch/eggs_unity3d](https://github.com/jordillonch/eggs_unity3d) - Erlang Generic Game Server + Unity3D 
 * [jeena/GGS](https://github.com/jeena/GGS) -  Generic Game Server
+* [basho/erlang_js](https://github.com/basho/erlang_js) - A linked-in driver for Erlang to Mozilla's Spidermonkey Javascript runtime.
