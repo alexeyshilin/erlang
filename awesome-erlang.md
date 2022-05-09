@@ -983,3 +983,4 @@
 * [jeena/GGS](https://github.com/jeena/GGS) -  Generic Game Server
 * [basho/erlang_js](https://github.com/basho/erlang_js) - A linked-in driver for Erlang to Mozilla's Spidermonkey Javascript runtime.
 * [jonte/erlang_js](https://github.com/jonte/erlang_js) - A fork of erlang_ggs, attempting to implement a JS -> Erlang connection
+* [beamjs/erlv8](https://github.com/beamjs/erlv8) - Erlang interface for V8
